@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -7,11 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Builder\" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.4" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Convey.Persistence.EFCore\src\Convey.Persistence.EFCore\Convey.Persistence.EFCore.csproj" />
+    <ProjectReference Include="..\..\..\Convey\src\Convey\Convey.csproj" />
   </ItemGroup>
 
 </Project>

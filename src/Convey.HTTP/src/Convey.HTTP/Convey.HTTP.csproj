@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <Description>Convey.HTTP</Description>
-    <Authors>DevMentors.io</Authors>
+    <Authors>DevMentors.io,Alireza Baloochi</Authors>
     <TargetFramework>net6.0</TargetFramework>
     <LangVersion>Latest</LangVersion>
     <AssemblyName>Convey.HTTP</AssemblyName>

@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <Description>Convey.MessageBrokers.CQRS</Description>
-    <Authors>DevMentors.io</Authors>
-    <TargetFramework>net6.0</TargetFramework>
+	  <Authors>DevMentors.io,Alireza Baloochi</Authors>
+	  <TargetFramework>net6.0</TargetFramework>
     <LangVersion>Latest</LangVersion>
     <AssemblyName>Convey.MessageBrokers.CQRS</AssemblyName>
     <Title>Convey.MessageBrokers.CQRS</Title>

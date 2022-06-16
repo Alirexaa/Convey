@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <Description>Convey.WebApi.Swagger</Description>
-    <Authors>DevMentors.io</Authors>
-    <TargetFramework>net6.0</TargetFramework>
+	  <Authors>DevMentors.io,Alireza Baloochi</Authors>
+	  <TargetFramework>net6.0</TargetFramework>
     <LangVersion>Latest</LangVersion>
     <AssemblyName>Convey.WebApi.Swagger</AssemblyName>
     <Title>Convey.WebApi.Swagger</Title>

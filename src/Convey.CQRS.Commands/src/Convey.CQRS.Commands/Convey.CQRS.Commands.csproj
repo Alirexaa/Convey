@@ -1,18 +1,18 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <Description>Convey.CQRS.Commands</Description>
-    <Authors>DevMentors.io</Authors>
-    <TargetFramework>net6.0</TargetFramework>
-    <LangVersion>Latest</LangVersion>
-    <AssemblyName>Convey.CQRS.Commands</AssemblyName>
-    <Title>Convey.CQRS.Commands</Title>
-    <PackageId>Convey.CQRS.Commands</PackageId>
-    <PackageTags>Convey.CQRS.Commands</PackageTags>
-  </PropertyGroup>
+	<PropertyGroup>
+		<Description>Convey.CQRS.Commands</Description>
+		<Authors>DevMentors.io,Alireza Baloochi</Authors>
+		<TargetFramework>net6.0</TargetFramework>
+		<LangVersion>Latest</LangVersion>
+		<AssemblyName>Convey.CQRS.Commands</AssemblyName>
+		<Title>Convey.CQRS.Commands</Title>
+		<PackageId>Convey.CQRS.Commands</PackageId>
+		<PackageTags>Convey.CQRS.Commands</PackageTags>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\Convey\src\Convey\Convey.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\..\..\Convey\src\Convey\Convey.csproj" />
+	</ItemGroup>
 
 </Project>

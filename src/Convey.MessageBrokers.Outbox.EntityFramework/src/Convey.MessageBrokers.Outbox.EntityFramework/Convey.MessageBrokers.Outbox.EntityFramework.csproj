@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <Description>Convey.MessageBrokers.Outbox.EntityFramework</Description>
-    <Authors>DevMentors.io</Authors>
-    <TargetFramework>net6.0</TargetFramework>
+	  <Authors>DevMentors.io,Alireza Baloochi</Authors>
+	  <TargetFramework>net6.0</TargetFramework>
     <LangVersion>Latest</LangVersion>
     <Title>Convey.MessageBrokers.Outbox.EntityFrameworkF</Title>
     <PackageId>Convey.MessageBrokers.Outbox.EntityFramework</PackageId>

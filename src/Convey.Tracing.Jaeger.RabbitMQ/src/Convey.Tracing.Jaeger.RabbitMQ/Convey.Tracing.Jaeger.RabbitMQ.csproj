@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <Description>Convey.Tracing.Jaeger.RabbitMQ</Description>
-    <Authors>DevMentors.io</Authors>
-    <TargetFramework>net6.0</TargetFramework>
+	  <Authors>DevMentors.io,Alireza Baloochi</Authors>
+	  <TargetFramework>net6.0</TargetFramework>
     <LangVersion>Latest</LangVersion>
     <AssemblyName>Convey.Tracing.Jaeger.RabbitMQ</AssemblyName>
     <Title>Convey.Tracing.Jaeger.RabbitMQ</Title>

@@ -2,8 +2,8 @@
 
     <PropertyGroup>
         <Description>Convey.Metrics.Prometheus</Description>
-        <Authors>DevMentors.io</Authors>
-        <TargetFramework>net6.0</TargetFramework>
+		<Authors>DevMentors.io,Alireza Baloochi</Authors>
+		<TargetFramework>net6.0</TargetFramework>
         <LangVersion>Latest</LangVersion>
         <AssemblyName>Convey.Metrics.Prometheus</AssemblyName>
         <Title>Convey.Metrics.Prometheus</Title>

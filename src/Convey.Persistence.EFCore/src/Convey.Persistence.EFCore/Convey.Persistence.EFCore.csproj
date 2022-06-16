@@ -1,12 +1,21 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
 
-  <ItemGroup>
+	<PropertyGroup>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<Description>Convey.Persistence.EFCore</Description>
+		<Authors>Alireza Baloochi</Authors>
+		<TargetFramework>net6.0</TargetFramework>
+		<LangVersion>Latest</LangVersion>
+		<AssemblyName>Convey.Persistence.EFCore</AssemblyName>
+		<Title>Convey.Persistence.EFCore</Title>
+		<PackageId>Convey.Persistence.EFCore</PackageId>
+		<PackageTags>Convey.Persistence.EFCore</PackageTags>
+	</PropertyGroup>
+
+
+	<ItemGroup>
     <ProjectReference Include="..\..\..\Convey.Domain.Model\src\Convey.Domain.Model\Convey.Domain.Model.csproj" />
   </ItemGroup>
 

@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <Description>Convey.Persistence.Redis</Description>
-    <Authors>DevMentors.io</Authors>
-    <TargetFramework>net6.0</TargetFramework>
+	  <Authors>DevMentors.io,Alireza Baloochi</Authors>
+	  <TargetFramework>net6.0</TargetFramework>
     <LangVersion>Latest</LangVersion>
     <AssemblyName>Convey.Persistence.Redis</AssemblyName>
     <Title>Convey.Persistence.Redis</Title>

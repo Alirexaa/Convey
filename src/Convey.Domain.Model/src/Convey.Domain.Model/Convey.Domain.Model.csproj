@@ -1,5 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+
+	<PropertyGroup>
+		<Description>Convey.Domain.Model</Description>
+		<Authors>Alireza Baloochi</Authors>
+		<TargetFramework>net6.0</TargetFramework>
+		<LangVersion>Latest</LangVersion>
+		<AssemblyName>Convey.Domain.Model</AssemblyName>
+		<Title>Convey.Domain.Model</Title>
+		<PackageId>Convey.Domain.Model</PackageId>
+		<PackageTags>Convey.Domain.Model</PackageTags>
+	</PropertyGroup>
+	
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

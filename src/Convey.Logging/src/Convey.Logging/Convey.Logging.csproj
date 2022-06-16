@@ -9,6 +9,7 @@
     <Title>Convey.Logging</Title>
     <PackageId>Convey.Logging</PackageId>
     <PackageTags>Convey.Logging</PackageTags>
+	  <IsPackable>true</IsPackable>
   </PropertyGroup>
 
   <ItemGroup>

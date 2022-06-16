@@ -9,7 +9,7 @@
 		<Authors>Alireza Baloochi</Authors>
 		<TargetFramework>net6.0</TargetFramework>
 		<LangVersion>Latest</LangVersion>
-		<AssemblyName>Convey.Domain.Model</AssemblyName>
+		<AssemblyName>Convey.Persistence.EFCore.Postgres</AssemblyName>
 		<Title>Convey.Persistence.EFCore.Postgres</Title>
 		<PackageId>Convey.Persistence.EFCore.Postgres</PackageId>
 		<PackageTags>Convey.Persistence.EFCore.Postgres</PackageTags>
